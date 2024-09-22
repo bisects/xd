@@ -40,20 +40,20 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function getCustomText(buttonText) {
         switch (buttonText) {
-            case 'arch':
-                return 'the true owner of hellhound';
-            case 'fei':
-                return 'the owner of hellhound';
-            case 'eve':
-                return 'i love adele so much';
-            case 'rtx':
-                return 'i hacked nvidia database OHOOOO';
-            case 'jayden':
-                return 'jayden is a troll';
-            case 'hoz':
-                return 'worst dx9ware staff (owes arch money)';
-            case 'sar':
-                return 'begged me to add him here';
+            case 'OBS':
+                return 'goyim';
+            case 'Astroling':
+                return 'nutter butter';
+            case 'Zave':
+                return 'I love adele';
+            case 'Slick':
+                return 'if shes 9 shes mine';
+            case 'jelly':
+                return 'begged to be here';
+            case 'jerry':
+                return 'mickey mouse irl';
+            case 'cal':
+                return 'pls give me robux';
             default:
                 return '';
         }
