@@ -42,17 +42,17 @@ document.addEventListener('DOMContentLoaded', function () {
         switch (buttonText) {
             case 'OBS':
                 return 'goyim';
-            case 'Astroling':
+            case 'astroling':
                 return 'nutter butter';
-            case 'Zave':
+            case 'interpolationformat':
                 return 'I love adele';
-            case 'Slick':
+            case 'embowing':
                 return 'if shes 9 shes mine';
-            case 'jelly':
+            case 'consecutive':
                 return 'begged to be here';
-            case 'jerry':
+            case 'misjudgement':
                 return 'mickey mouse irl';
-            case 'cal':
+            case 'henrymans0n':
                 return 'pls give me robux';
             default:
                 return '';
