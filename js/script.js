@@ -42,18 +42,8 @@ document.addEventListener('DOMContentLoaded', function () {
         switch (buttonText) {
             case 'OBS':
                 return 'goyim';
-            case 'astroling':
-                return 'nutter butter';
-            case 'interpolationformat':
-                return 'I love adele';
-            case 'embowing':
-                return 'if shes 9 shes mine';
-            case 'consecutive':
-                return 'begged to be here';
-            case 'misjudgement':
-                return 'mickey mouse irl';
-            case 'henrymans0n':
-                return 'pls give me robux';
+            case 'Henry':
+                return 'i love adele';
             default:
                 return '';
         }
